@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "modid",
+  "version": "1.0.0",
+
+  "name": "Template Mod",
+  "description": "Edit this description you numbskull!",
+  "authors": [
+    "Shnupbups"
+  ],
+
+  "license": "LGPLv3",
+  "icon": "assets/modid/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.shnupbups.modid.ModId"
+    ]
+  },
+
+  "depends": {
+    "fabricloader": ">=0.6.1",
+    "fabric": "*"
+  }
+}
