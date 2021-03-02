@@ -4,7 +4,7 @@ import net.fabricmc.api.ModInitializer;
 
 import net.minecraft.util.Identifier;
 
-public class modid implements ModInitializer {
+public class ModId implements ModInitializer {
 	public static final String MOD_ID = "modid";
 	
 	@Override
